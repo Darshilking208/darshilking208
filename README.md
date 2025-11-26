@@ -10,8 +10,15 @@ I'm a passionate tech student exploring the world of programming, development, a
 - 🌱 I’m currently learning: **PHP, Python, and Web Development**
 - 🤝 I’m looking to collaborate on: **Fun student projects and websites**
 - 🧠 Ask me about: **Magic Squares, PHP, or GitHub tips**
-- 📫 How to reach me: *[darshilprajapati97@dcode.in]*
+- 📫 How to reach me: **darshilprajapati97@dcode.in**
 - ⚡ Fun fact: I love solving tech problems late at night 😄
+
+---
+
+### 🌐 My Portfolio
+
+👉 **Live Website:**  
+🔗 https://darshilking208.github.io/darshil-portfolio/
 
 ---
 
@@ -27,4 +34,4 @@ I'm a passionate tech student exploring the world of programming, development, a
 
 ---
 
-Thanks for visiting! ⭐
+⭐ Thanks for visiting my profile!
