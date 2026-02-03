@@ -30,7 +30,7 @@ I'm a passionate tech student exploring the world of programming, development, a
 
 ### 🛠️ Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,js,css,php,python,mysql,github,git,vscode,java,ML)
+![My Skills](https://skillicons.dev/icons?i=html,js,css,php,python,mysql,github,git,vscode,java,android-studio)
 
 ---
 
