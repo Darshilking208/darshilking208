@@ -70,8 +70,8 @@ me.say_hi()
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌌 **[Advanced Black Hole Simulator](https://github.com/Darshilking208)** | A Python-based 3D physics simulation featuring particle orbits, gravitational lensing, and accretion disk visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🌐 **[Developer Portfolio Website](https://github.com/Darshilking208)** | Animated personal portfolio with responsive design, smooth transitions, and project showcases. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 🌌 **[Advanced Black Hole Simulator](https://github.com/Darshilking208/advanced-black-hole-simulator)** | A Python-based 3D physics simulation featuring particle orbits, gravitational lensing, and accretion disk visualization. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🌐 **[Developer Portfolio Website](https://github.com/Darshilking208/developer-portfolio)** | Animated personal portfolio with responsive design, smooth transitions, and project showcases. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 </div>
 
