@@ -116,8 +116,8 @@ me.say_hi()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Darshilking208-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darshilking208)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://darshilking208.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshil@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://darshilking208.github.io/developer-portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshillprajapati97@gmail.com)
 
 </div>
 
