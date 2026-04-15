@@ -83,19 +83,28 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Darshilking208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshilking208&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Darshilking208&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" height="175" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshilking208&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="175" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Darshilking208&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&cache_seconds=1800" height="175" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshilking208&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshilking208&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -106,8 +115,6 @@ me.say_hi()
 </picture>
 
 </div>
-
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow — see setup instructions below.*
 
 ---
 
